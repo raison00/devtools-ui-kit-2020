@@ -1,0 +1,102 @@
+
+
+$asset-base-path: '../../../../assets' !default;
+
+// Core
+
+@import "design-system-react/custom/functions";
+@import "design-system-react/bootstrap/functions";
+
+@import "design-system-react/custom/variables";
+@import "design-system-react/bootstrap/variables";
+
+@import "design-system-react/custom/mixins";
+@import "design-system-react/bootstrap/mixins";
+
+// Bootstrap components
+
+@import "design-system-react/bootstrap/root";
+@import "design-system-react/bootstrap/reboot";
+@import "design-system-react/bootstrap/type";
+@import "design-system-react/bootstrap/images";
+@import "design-system-react/bootstrap/code";
+@import "design-system-react/bootstrap/grid";
+@import "design-system-react/bootstrap/tables";
+@import "design-system-react/bootstrap/forms";
+@import "design-system-react/bootstrap/buttons";
+@import "design-system-react/bootstrap/transitions";
+@import "design-system-react/bootstrap/dropdown";
+@import "design-system-react/bootstrap/button-group";
+@import "design-system-react/bootstrap/input-group";
+@import "design-system-react/bootstrap/custom-forms";
+@import "design-system-react/bootstrap/nav";
+@import "design-system-react/bootstrap/navbar";
+@import "design-system-react/bootstrap/card";
+@import "design-system-react/bootstrap/breadcrumb";
+@import "design-system-react/bootstrap/pagination";
+@import "design-system-react/bootstrap/badge";
+@import "design-system-react/bootstrap/jumbotron";
+@import "design-system-react/bootstrap/alert";
+@import "design-system-react/bootstrap/progress";
+@import "design-system-react/bootstrap/media";
+@import "design-system-react/bootstrap/list-group";
+@import "design-system-react/bootstrap/close";
+@import "design-system-react/bootstrap/modal";
+@import "design-system-react/bootstrap/tooltip";
+@import "design-system-react/bootstrap/popover";
+@import "design-system-react/bootstrap/carousel";
+@import "design-system-react/bootstrap/utilities";
+@import "design-system-react/bootstrap/print";
+
+// Custom components
+
+@import "design-system-react/custom/alerts.scss";
+@import "design-system-react/custom/buttons.scss";
+@import "design-system-react/custom/dropdown.scss";
+@import "design-system-react/custom/footer.scss";
+@import "design-system-react/custom/forms.scss";
+@import "design-system-react/custom/images.scss";
+@import "design-system-react/custom/modal.scss";
+@import "design-system-react/custom/navbar.scss";
+@import "design-system-react/custom/type.scss";
+@import "design-system-react/custom/icons.scss";
+@import "design-system-react/custom/tables";
+@import "design-system-react/custom/checkboxes-radio";
+@import "design-system-react/custom/fixed-plugin";
+@import "design-system-react/custom/pagination.scss";
+@import "design-system-react/custom/misc.scss";
+@import "design-system-react/custom/rtl.scss";
+@import "design-system-react/custom/input-group.scss";
+@import "design-system-react/custom/example-pages.scss";
+@import "design-system-react/custom/progress.scss";
+@import "design-system-react/custom/badge.scss";
+@import "design-system-react/custom/pills.scss";
+@import "design-system-react/custom/tabs.scss";
+@import "design-system-react/custom/info-areas.scss";
+
+// Sections
+@import "design-system-react/custom/sections.scss";
+
+// Vendor / Plugins
+
+@import "design-system-react/custom/vendor/plugin-perfect-scrollbar.scss";
+@import "design-system-react/custom/vendor/plugin-animate-bootstrap-notify.scss";
+@import "design-system-react/custom/vendor/plugin-bootstrap-switch.scss";
+@import "design-system-react/custom/vendor/plugin-nouislider.scss";
+@import "design-system-react/custom/vendor/plugin-datetimepicker.scss";
+
+// Cards
+
+@import "design-system-react/custom/card";
+@import "design-system-react/custom/cards/card-chart";
+@import "design-system-react/custom/cards/card-map";
+@import "design-system-react/custom/cards/card-user";
+@import "design-system-react/custom/cards/card-task";
+@import "design-system-react/custom/cards/card-plain";
+@import "design-system-react/custom/cards/card-register";
+@import "design-system-react/custom/cards/card-stats";
+@import "design-system-react/custom/cards/card-chart";
+
+// React Differences
+
+@import "design-system-react/react/react-differences";

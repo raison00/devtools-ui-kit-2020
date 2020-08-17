@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/raison00/living-style-guide/static/css/main.bb2164cb.chunk.css",
+    "main.js": "/raison00/living-style-guide/static/js/main.cacdb955.chunk.js",
+    "main.js.map": "/raison00/living-style-guide/static/js/main.cacdb955.chunk.js.map",
+    "runtime-main.js": "/raison00/living-style-guide/static/js/runtime-main.30ea9cd3.js",
+    "runtime-main.js.map": "/raison00/living-style-guide/static/js/runtime-main.30ea9cd3.js.map",
+    "static/js/2.a8af2a2b.chunk.js": "/raison00/living-style-guide/static/js/2.a8af2a2b.chunk.js",
+    "static/js/2.a8af2a2b.chunk.js.map": "/raison00/living-style-guide/static/js/2.a8af2a2b.chunk.js.map",
+    "index.html": "/raison00/living-style-guide/index.html",
+    "precache-manifest.2dd0540adce0a579a741b9937d4fb9c1.js": "/raison00/living-style-guide/precache-manifest.2dd0540adce0a579a741b9937d4fb9c1.js",
+    "service-worker.js": "/raison00/living-style-guide/service-worker.js",
+    "static/css/main.bb2164cb.chunk.css.map": "/raison00/living-style-guide/static/css/main.bb2164cb.chunk.css.map",
+    "static/js/2.a8af2a2b.chunk.js.LICENSE.txt": "/raison00/living-style-guide/static/js/2.a8af2a2b.chunk.js.LICENSE.txt",
+    "static/media/blob.png": "/raison00/living-style-guide/static/media/blob.01899307.png",
+    "static/media/cercuri.png": "/raison00/living-style-guide/static/media/cercuri.8d581ffb.png",
+    "static/media/dots.png": "/raison00/living-style-guide/static/media/dots.b81dabc0.png",
+    "static/media/flutter-blue-green.png": "/raison00/living-style-guide/static/media/flutter-blue-green.3c221114.png",
+    "static/media/github.svg": "/raison00/living-style-guide/static/media/github.4ffd4fe7.svg",
+    "static/media/google.svg": "/raison00/living-style-guide/static/media/google.87be59a1.svg",
+    "static/media/landing-page.png": "/raison00/living-style-guide/static/media/landing-page.c085e83e.png",
+    "static/media/le-flutter-inspect-lposition-left.png": "/raison00/living-style-guide/static/media/le-flutter-inspect-lposition-left.f4f3bd79.png",
+    "static/media/le-icon.png": "/raison00/living-style-guide/static/media/le-icon.fb76b97a.png",
+    "static/media/nucleo-icons.css": "/raison00/living-style-guide/static/media/nucleo.f0b489a5.woff",
+    "static/media/path1.png": "/raison00/living-style-guide/static/media/path1.b1e01ebb.png",
+    "static/media/path2.png": "/raison00/living-style-guide/static/media/path2.43ff45c5.png",
+    "static/media/path3.png": "/raison00/living-style-guide/static/media/path3.a70167ea.png",
+    "static/media/path4.png": "/raison00/living-style-guide/static/media/path4.e37326c7.png",
+    "static/media/path5.png": "/raison00/living-style-guide/static/media/path5.ceb241f0.png",
+    "static/media/patrat.png": "/raison00/living-style-guide/static/media/patrat.03ea2a0a.png",
+    "static/media/phone.png": "/raison00/living-style-guide/static/media/phone.0ace53b1.png",
+    "static/media/profile-page.png": "/raison00/living-style-guide/static/media/profile-page.2515c8e5.png",
+    "static/media/design-system-react.scss?v=1.1.0": "/raison00/living-style-guide/static/media/square5.4964a9d0.png",
+    "static/media/square6.png": "/raison00/living-style-guide/static/media/square6.4a5b4fa6.png",
+    "static/media/waves.png": "/raison00/living-style-guide/static/media/waves.11fa5f73.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30ea9cd3.js",
+    "static/js/2.a8af2a2b.chunk.js",
+    "static/css/main.bb2164cb.chunk.css",
+    "static/js/main.cacdb955.chunk.js"
+  ]
+}
