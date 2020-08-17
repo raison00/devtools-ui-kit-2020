@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/devtools-ui-kit-2020/static/css/main.209937d9.chunk.css",
+    "main.js": "/devtools-ui-kit-2020/static/js/main.647ea94f.chunk.js",
+    "main.js.map": "/devtools-ui-kit-2020/static/js/main.647ea94f.chunk.js.map",
+    "runtime-main.js": "/devtools-ui-kit-2020/static/js/runtime-main.da9c4797.js",
+    "runtime-main.js.map": "/devtools-ui-kit-2020/static/js/runtime-main.da9c4797.js.map",
+    "static/js/2.dfa9d7c0.chunk.js": "/devtools-ui-kit-2020/static/js/2.dfa9d7c0.chunk.js",
+    "static/js/2.dfa9d7c0.chunk.js.map": "/devtools-ui-kit-2020/static/js/2.dfa9d7c0.chunk.js.map",
+    "index.html": "/devtools-ui-kit-2020/index.html",
+    "precache-manifest.cb00b9fe2713785f30135f8dcba0078b.js": "/devtools-ui-kit-2020/precache-manifest.cb00b9fe2713785f30135f8dcba0078b.js",
+    "service-worker.js": "/devtools-ui-kit-2020/service-worker.js",
+    "static/css/main.209937d9.chunk.css.map": "/devtools-ui-kit-2020/static/css/main.209937d9.chunk.css.map",
+    "static/js/2.dfa9d7c0.chunk.js.LICENSE.txt": "/devtools-ui-kit-2020/static/js/2.dfa9d7c0.chunk.js.LICENSE.txt",
+    "static/media/blob.png": "/devtools-ui-kit-2020/static/media/blob.01899307.png",
+    "static/media/cercuri.png": "/devtools-ui-kit-2020/static/media/cercuri.8d581ffb.png",
+    "static/media/dots.png": "/devtools-ui-kit-2020/static/media/dots.b81dabc0.png",
+    "static/media/flutter-blue-green.png": "/devtools-ui-kit-2020/static/media/flutter-blue-green.3c221114.png",
+    "static/media/github.svg": "/devtools-ui-kit-2020/static/media/github.4ffd4fe7.svg",
+    "static/media/google.svg": "/devtools-ui-kit-2020/static/media/google.87be59a1.svg",
+    "static/media/landing-page.png": "/devtools-ui-kit-2020/static/media/landing-page.c085e83e.png",
+    "static/media/le-flutter-inspect-lposition-left.png": "/devtools-ui-kit-2020/static/media/le-flutter-inspect-lposition-left.f4f3bd79.png",
+    "static/media/le-icon.png": "/devtools-ui-kit-2020/static/media/le-icon.fb76b97a.png",
+    "static/media/nucleo-icons.css": "/devtools-ui-kit-2020/static/media/nucleo.f0b489a5.woff",
+    "static/media/path1.png": "/devtools-ui-kit-2020/static/media/path1.b1e01ebb.png",
+    "static/media/path2.png": "/devtools-ui-kit-2020/static/media/path2.43ff45c5.png",
+    "static/media/path3.png": "/devtools-ui-kit-2020/static/media/path3.a70167ea.png",
+    "static/media/path4.png": "/devtools-ui-kit-2020/static/media/path4.e37326c7.png",
+    "static/media/path5.png": "/devtools-ui-kit-2020/static/media/path5.ceb241f0.png",
+    "static/media/patrat.png": "/devtools-ui-kit-2020/static/media/patrat.03ea2a0a.png",
+    "static/media/phone.png": "/devtools-ui-kit-2020/static/media/phone.0ace53b1.png",
+    "static/media/profile-page.png": "/devtools-ui-kit-2020/static/media/profile-page.2515c8e5.png",
+    "static/media/design-system-react.scss?v=1.1.0": "/devtools-ui-kit-2020/static/media/square5.4964a9d0.png",
+    "static/media/square6.png": "/devtools-ui-kit-2020/static/media/square6.4a5b4fa6.png",
+    "static/media/waves.png": "/devtools-ui-kit-2020/static/media/waves.11fa5f73.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da9c4797.js",
+    "static/js/2.dfa9d7c0.chunk.js",
+    "static/css/main.209937d9.chunk.css",
+    "static/js/main.647ea94f.chunk.js"
+  ]
+}
