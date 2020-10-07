@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "562ebb8de967177cfff2962076a6dc5a",
+    "revision": "163d2e1ea10dd4ec8774aa71e6a51b28",
     "url": "/raison00/living-style-guide/index.html"
   },
   {
-    "revision": "f622bdbab73f313efcab",
+    "revision": "c8c0891e254f9ed3fe26",
     "url": "/raison00/living-style-guide/static/css/main.bb2164cb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/raison00/living-style-guide/static/js/2.a8af2a2b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f622bdbab73f313efcab",
-    "url": "/raison00/living-style-guide/static/js/main.cacdb955.chunk.js"
+    "revision": "c8c0891e254f9ed3fe26",
+    "url": "/raison00/living-style-guide/static/js/main.79032b9e.chunk.js"
   },
   {
     "revision": "5455f9280f0240ed1010",

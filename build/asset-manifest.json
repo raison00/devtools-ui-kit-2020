@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/raison00/living-style-guide/static/css/main.bb2164cb.chunk.css",
-    "main.js": "/raison00/living-style-guide/static/js/main.cacdb955.chunk.js",
-    "main.js.map": "/raison00/living-style-guide/static/js/main.cacdb955.chunk.js.map",
+    "main.js": "/raison00/living-style-guide/static/js/main.79032b9e.chunk.js",
+    "main.js.map": "/raison00/living-style-guide/static/js/main.79032b9e.chunk.js.map",
     "runtime-main.js": "/raison00/living-style-guide/static/js/runtime-main.30ea9cd3.js",
     "runtime-main.js.map": "/raison00/living-style-guide/static/js/runtime-main.30ea9cd3.js.map",
     "static/js/2.a8af2a2b.chunk.js": "/raison00/living-style-guide/static/js/2.a8af2a2b.chunk.js",
     "static/js/2.a8af2a2b.chunk.js.map": "/raison00/living-style-guide/static/js/2.a8af2a2b.chunk.js.map",
     "index.html": "/raison00/living-style-guide/index.html",
-    "precache-manifest.2dd0540adce0a579a741b9937d4fb9c1.js": "/raison00/living-style-guide/precache-manifest.2dd0540adce0a579a741b9937d4fb9c1.js",
+    "precache-manifest.d39b023d700fa5edb8e1faf689f211b5.js": "/raison00/living-style-guide/precache-manifest.d39b023d700fa5edb8e1faf689f211b5.js",
     "service-worker.js": "/raison00/living-style-guide/service-worker.js",
     "static/css/main.bb2164cb.chunk.css.map": "/raison00/living-style-guide/static/css/main.bb2164cb.chunk.css.map",
     "static/js/2.a8af2a2b.chunk.js.LICENSE.txt": "/raison00/living-style-guide/static/js/2.a8af2a2b.chunk.js.LICENSE.txt",
@@ -38,6 +38,6 @@
     "static/js/runtime-main.30ea9cd3.js",
     "static/js/2.a8af2a2b.chunk.js",
     "static/css/main.bb2164cb.chunk.css",
-    "static/js/main.cacdb955.chunk.js"
+    "static/js/main.79032b9e.chunk.js"
   ]
 }
